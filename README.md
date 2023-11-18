@@ -1,8 +1,8 @@
-# Chat system backend
+# Plant data backend
 
-This repository contains code of a learning project called: "Chat system".
+This repository contains code of a learning project called: "Plant data".
 
-It's purpose is to build live communication that allows message, voice and video conversations.
+It's purpose is to store plant data in an efficient way so analytics can be done upon this data.
 
 ## Learning
 
